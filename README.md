@@ -1,1 +1,1 @@
-# C-Practice-Problems
+learning C by answering questions from https://www.w3resource.com/c-programming-exercises/basic-declarations-and-expressions/index.php
